@@ -1,0 +1,39 @@
+{
+    "user":
+    [
+           {
+               "id":"1",
+               "name":"Dhiraj",
+               "lastname":"soni",
+               "email":"Soni@gmail.com" 
+            }, 
+            
+           {
+            "id":"2",
+            "name":"Dhiraj",
+            "lastname":"soni",
+            "email":"Soni@gmail.com" 
+         },
+         
+         {
+            "id":"3",
+            "name":"Dhiraj",
+            "lastname":"soni",
+            "email":"Soni@gmail.com" 
+         },
+         
+         {
+            "id":"4",
+            "name":"Dhiraj",
+            "lastname":"soni",
+            "email":"Soni@gmail.com" 
+         },
+         
+         {
+            "id":"5",
+            "name":"Dhiraj",
+            "lastname":"soni",
+            "email":"Soni@gmail.com" 
+         }  
+        ]
+}
