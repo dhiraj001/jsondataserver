@@ -4,92 +4,92 @@
   "Necklace": [
       {
         "id":1,
-        "Name": "Necklace",
+        "Name": "Necklace:01",
         "Image": "https://i.ibb.co/SPLxQbF/necklace14.jpg",
         "likes":1201
       },
       {
         "id":2,
-        "Name": "Necklace",
+        "Name": "Necklace:02",
         "Image": "https://i.ibb.co/7kwwL8C/necklace15.jpg",
         "likes":1201
       },
       
       {
         "id":3,
-        "Name": "Necklace",
+        "Name": "Necklace:03",
         "Image": "https://i.ibb.co/g3tYTkj/necklace13.jpg",
         "likes":1201
       },
       {
         "id":4,
-        "Name": "Necklace",
+        "Name": "Necklace:04",
         "Image": "https://i.ibb.co/RSTgzMK/necklace11.jpg",
         "likes":1201
       },
       {
         "id":5,
-        "Name": "Necklace",
+        "Name": "Necklace:05",
         "Image": "https://i.ibb.co/Xk8x8Gh/necklace10.jpg",
         "likes":1201
       },
       {
         "id":6,
-        "Name": "Necklace",
+        "Name": "Necklace:06",
         "Image": "https://i.ibb.co/mSWDTY2/necklace6.jpg",
         "likes":1201
       },
       {
         "id":7,
-        "Name": "Necklace",
+        "Name": "Necklace:07,
         "Image": "https://i.ibb.co/58BDnfy/necklace8.jpg",
         "likes":1201
       },
       {
         "id":8,
-        "Name": "Necklace",
+        "Name": "Necklace:08
         "Image": "https://i.ibb.co/58BDnfy/necklace8.jpg",
         "likes":1201
       },
       {
         "id":9,
-        "Name": "Necklace",
+        "Name": "Necklace:09
         "Image": "https://i.ibb.co/M6MTy8J/necklace6.jpg",
         "likes":1201
       },
       {
         "id":10,
-        "Name": "Necklace",
+        "Name": "Necklace:10
         "Image": "https://photos.google.com/photo/AF1QipNefPkwthV9LIPtuk9TdiOdsOzp7Un2jzG11-b7",
         "likes":1201
       },
     {
         "id":11,
-        "Name": "Necklace",
+        "Name": "Necklace:11
         "Image": "https://i.ibb.co/K7JVGJL/necklace5.jpg",
         "likes":1201
       },
     {
         "id":12,
-        "Name": "Necklace",
+        "Name": "Necklace:12
         "Image": "https://i.ibb.co/tXMCr3D/necklace3.jpg",
         "likes":1201
       },
     {
         "id":13,
-        "Name": "Necklace",
-        "Image": "https://photos.google.com/photo/AF1QipNefPkwthV9LIPtuk9TdiOdsOzp7Un2jzG11-b7",
+        "Name": "Necklace:13
+        "Image": "https://i.ibb.co/b6rm0sh/necklace4.jpg",
         "likes":1201
       },
     {
         "id":14,
-        "Name": "Necklace",
-        "Image": "https://photos.google.com/photo/AF1QipNefPkwthV9LIPtuk9TdiOdsOzp7Un2jzG11-b7",
+        "Name": "Necklace:14
+        "Image": "https://i.ibb.co/b6rm0sh/necklace4.jpg",
         "likes":1201
       },
     {
         "id":15,
-        "Name": "Necklace",
+        "Name": "Necklace:15
         "Image": "https://i.ibb.co/Sd224d4/necklace2.jpg",
         "likes":1201
       }
