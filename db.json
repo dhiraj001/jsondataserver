@@ -122,7 +122,7 @@
       {
          "id":6,
          "Name":"Rings:06",
-         "Image":"hhttps://i.ibb.co/JsqWn6L/IMG-20210210-WA0016.jpg",
+         "Image":"https://i.ibb.co/JsqWn6L/IMG-20210210-WA0016.jpg",
          "likes":1201
       },
       {
@@ -177,6 +177,12 @@
          "id":15,
          "Name":"Rings:15",
          "Image":"https://i.ibb.co/Qk8DShC/IMG-20190209-WA0004.jpg",
+         "likes":1201
+      },
+      {
+         "id":16,
+         "Name":"Rings:16",
+         "Image":"https://i.ibb.co/Qk8DShC/IMG-20190209-WA00013.jpg",
          "likes":1201
       }
    ]
